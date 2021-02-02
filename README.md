@@ -44,4 +44,12 @@ para poder colaborar y subir sus proyectos a este repositorio y asi tambien pode
 a otras personas.
 
 
+## Compilar y Ejecutar
+
+¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+
+Todas las instrucciones funcionan pero cada una muestra el mensaje que corresponde a cada caso.En el caso de que la entrada este en la clase enumeración se muetra un mensaje confirmando la creación del objeto como se muestra en la imagen siguiente:
+
+![alt](Ejecuciones.png)
+
 
